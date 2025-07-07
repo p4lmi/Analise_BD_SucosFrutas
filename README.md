@@ -73,7 +73,7 @@ Aqui estão algumas das análises realizadas no projeto:
 
 ## Tecnologias utilizadas
 
-- SQL (com scripts próprios no diretório `/scripts`)
+- SQL (Microsoft SQL Server)
 
 ---
 
