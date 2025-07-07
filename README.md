@@ -68,6 +68,7 @@ Aqui estão algumas das análises realizadas no projeto:
 ## 📎 Arquivo
 
 - [`ANALISE_DB_SUCOSFRUTAS.sql`](./ANALISE_DB_SUCOSFRUTAS.sql): Contém todas as queries utilizadas no projeto, incluindo extrações, análises e segmentações.
+- Ferramenta utilizada: Microsoft SQL Server
 
 ---
 
