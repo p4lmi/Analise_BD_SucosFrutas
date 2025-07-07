@@ -73,7 +73,7 @@ Aqui estão algumas das análises realizadas no projeto:
 
 ## Tecnologias utilizadas
 
-- SQL (Microsoft SQL Server)
+- SQL (microsoftsqlserver)
 
 ---
 
